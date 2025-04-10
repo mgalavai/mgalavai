@@ -5,13 +5,11 @@ I'm on a journey to explore the exciting intersection of AI and UX Design. My go
 
 Advanced Front-End Architecture
 State management: Redux Toolkit, Recoil
-Micro-frontend architectures
-Web Components and Shadow DOM
+
 
 Modern Web Technologies
 React: Advanced hooks, Suspense, Concurrent Mode
 Next.js for optimized SSR and static generation
-GraphQL with Apollo Client
 
 AI Integration in Front-End
 TensorFlow.js for client-side machine learning
@@ -31,7 +29,7 @@ Real-time data with WebSockets
 Constantly pushing the boundaries of web development and UX design!
 
 💼 Projects I'm working on:
-
+Candidate-RFP Matching Application
 
 
 🤝 I'm looking to collaborate on:
